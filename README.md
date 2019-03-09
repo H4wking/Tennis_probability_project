@@ -1,1 +1,8 @@
-Tennis_probability_project is Danylo Nazaruk and Sofia Romachuk's course work from the course "The Basics of Programming". The theme of this project is "Probability of winning of certain player in given tennis match". Wiki contains all the information about this project.
+>Tennis_probability_project
+
+##Description
+Tennis_probability_project is a course work from the course "Programming Fundamentals". The theme of this project is "Probability of winning of certain player in given tennis match". You can find more information on wiki.
+
+##Credits
+Danylo Nazaruk
+Sofia Romanchuk
